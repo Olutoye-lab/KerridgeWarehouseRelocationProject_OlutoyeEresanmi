@@ -47,7 +47,9 @@ these can do downloaded here: https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-
 - Place the bin folder into the C directory
 - Restart the Program
 
-In order to run, copy and paste -- "manim -pql BoxRepr.py SolutionSample" into the terminal
+In order to run:
+- Change directory to MainDir -- "cd MainDir"
+- copy and paste -- "manim -pql BoxRepr.py SolutionSample" into the terminal
 
 ### Discalmer:
 
@@ -78,3 +80,5 @@ To run the main algorithm.
 
 Other data files can be chosen (except BoxTestData.json)
 - Example (python LpResult.py data_1000_items.json)
+
+- Make sure to install all necessary libraries before running

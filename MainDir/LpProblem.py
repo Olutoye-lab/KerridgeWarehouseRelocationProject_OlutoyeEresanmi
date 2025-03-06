@@ -1,5 +1,7 @@
 import pulp
 
+# n - number of items
+
 def boxSolver( n , case_weights, case_volumes, W_max, V_max):
     # Create the Linear Program (LP) problem
     prob = pulp.LpProblem("Minimize Boxes", pulp.LpMinimize)
