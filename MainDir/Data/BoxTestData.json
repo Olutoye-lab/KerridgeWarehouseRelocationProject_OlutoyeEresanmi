@@ -1,0 +1,265 @@
+[
+  {"Name": "item1",
+    "dimensions": "1,1,1",
+    "target": "8.5,0,-1.5"
+  },
+  {"Name": "item2",
+    "dimensions": "1,1,1",
+    "target": "8.5,0,-0.5"
+  },
+  {"Name": "item3",
+    "dimensions": "1,1,1",
+    "target": "8.5,0,0.5"
+  },
+  {"Name": "item4",
+    "dimensions": "2,1,1",
+    "target": "7,0,-1.5"
+  },
+  {"Name": "item5",
+    "dimensions": "1,1,1",
+    "target": "7.5,0,-0.5"
+  },
+  {"Name": "item6",
+    "dimensions": "1,1,1",
+    "target": "7.5,0,0.5"
+  },
+  {"Name": "item7",
+    "dimensions": "2,1,1",
+    "target": "8,-1,-1.5"
+  },
+  {"Name": "item8",
+    "dimensions": "2,1,1",
+    "target": "6.5,-1,-1.5"
+  },
+  {"Name": "item9",
+    "dimensions": "1,1,1",
+    "target": "5,-1,-1.5"
+  },
+  {"Name": "item10",
+    "dimensions": "2,1,1",
+    "target": "3.5,-1,-1.5"
+  },
+  {"Name": "item11",
+    "dimensions": "2,1,1",
+    "target": "1.5,-1,-1.5"
+  },
+  {"Name": "item12",
+    "dimensions": "1,1,1",
+    "target": "0,-1,-1.5"
+  },
+  {"Name": "item13",
+    "dimensions": "2,1,1",
+    "target": "-1.5,-1,-1.5"
+  },
+  {"Name": "item9",
+    "dimensions": "2,1,1",
+    "target": "-3.5,-1,-1.5"
+  },
+  {"Name": "item10",
+    "dimensions": "1,1,1",
+    "target": "-5.0,-1,-1.5"
+  },
+  {"Name": "item11",
+    "dimensions": "2,1,1",
+    "target": "6,0,-1.5"
+  },
+  {"Name": "item12",
+    "dimensions": "1,1,1",
+    "target": "4.5,0,-1.5"
+  },
+  {"Name": "item13",
+    "dimensions": "1,1,1",
+    "target": "1.5,0,-1.5"
+  },
+  {"Name": "item14",
+    "dimensions": "2,1,1",
+    "target": "0,0,-1.5"
+  },
+  {"Name": "item15",
+    "dimensions": "1,1,1",
+    "target": "-1.5,0,-1.5"
+  },
+  {"Name": "item16",
+    "dimensions": "1,1,1",
+    "target": "-2.5,0,-1.5"
+  },
+  {"Name": "item17",
+    "dimensions": "2,1,1",
+    "target": "-4,0,-1.5"
+  },
+  {"Name": "item18",
+    "dimensions": "1,1,1",
+    "target": "-5.5,0,-1.5"
+  },
+  {"Name": "item11",
+    "dimensions": "2,1,1",
+    "target": "8.5,-1,-0.5"
+  },
+  {"Name": "item12",
+    "dimensions": "1,1,1",
+    "target": "7,-1,-0.5"
+  },
+  {"Name": "item13",
+    "dimensions": "1,1,1",
+    "target": "6,-1,-0.5"
+  },
+  {"Name": "item14",
+    "dimensions": "2,1,1",
+    "target": "4.5,-1,-0.5"
+  },
+  {"Name": "item15",
+    "dimensions": "1,1,1",
+    "target": "3.0,-1,-0.5"
+  },
+  {"Name": "item16",
+    "dimensions": "1,1,1",
+    "target": "2.0,-1,-0.5"
+  },
+  {"Name": "item17",
+    "dimensions": "2,1,1",
+    "target": "0.5,-1,-0.5"
+  },
+  {"Name": "item18",
+    "dimensions": "1,1,1",
+    "target": "-1.0,-1,-0.5"
+  },
+  {"Name": "item15",
+    "dimensions": "1,1,1",
+    "target": "-2.0,-1,-0.5"
+  },
+  {"Name": "item16",
+    "dimensions": "1,1,1",
+    "target": "-3.0,-1,-0.5"
+  },
+  {"Name": "item17",
+    "dimensions": "2,1,1",
+    "target": "-4.5,-1,-0.5"
+  },
+  {"Name": "item11",
+    "dimensions": "1,1,1",
+    "target": "8.5,-1,0.5"
+  },
+  {"Name": "item12",
+    "dimensions": "2,1,1",
+    "target": "7,-1,0.5"
+  },
+  {"Name": "item13",
+    "dimensions": "2,1,1",
+    "target": "5,-1,0.5"
+  },
+  {"Name": "item14",
+    "dimensions": "2,1,1",
+    "target": "3,-1,0.5"
+  },
+  {"Name": "item15",
+    "dimensions": "1,1,1",
+    "target": "1.5,-1,0.5"
+  },
+  {"Name": "item16",
+    "dimensions": "1,1,1",
+    "target": "0.5,-1,0.5"
+  },
+  {"Name": "item17",
+    "dimensions": "2,1,1",
+    "target": "-1.0,-1,0.5"
+  },
+  {"Name": "item18",
+    "dimensions": "1,1,1",
+    "target": "-2.5,-1,0.5"
+  },
+  {"Name": "item15",
+    "dimensions": "1,1,1",
+    "target": "-3.0,-1,0.5"
+  },
+  {"Name": "item16",
+    "dimensions": "1,1,1",
+    "target": "-4.0,-1,0.5"
+  },
+  {"Name": "item17",
+    "dimensions": "2,1,1",
+    "target": "-5.5,-1,0.5"
+  },
+
+
+
+
+
+
+  {"Name": "item13",
+    "dimensions": "1,1,1",
+    "target": "6,0,-0.5"
+  },
+  {"Name": "item14",
+    "dimensions": "2,1,1",
+    "target": "4.5,0,-0.5"
+  },
+  {"Name": "item15",
+    "dimensions": "1,1,1",
+    "target": "3.0,0,-0.5"
+  },
+  {"Name": "item16",
+    "dimensions": "1,1,1",
+    "target": "2.0,0,-0.5"
+  },
+  {"Name": "item17",
+    "dimensions": "2,1,1",
+    "target": "0.5,0,-0.5"
+  },
+  {"Name": "item18",
+    "dimensions": "1,1,1",
+    "target": "-1.0,0,-0.5"
+  },
+  {"Name": "item15",
+    "dimensions": "1,1,1",
+    "target": "-2.0,0,-0.5"
+  },
+  {"Name": "item16",
+    "dimensions": "1,1,1",
+    "target": "-3.0,0,-0.5"
+  },
+  {"Name": "item17",
+    "dimensions": "2,1,1",
+    "target": "-4.5,0,-0.5"
+  },
+
+  {"Name": "item13",
+    "dimensions": "2,1,1",
+    "target": "5,0,0.5"
+  },
+  {"Name": "item14",
+    "dimensions": "2,1,1",
+    "target": "3,0,0.5"
+  },
+  {"Name": "item15",
+    "dimensions": "1,1,1",
+    "target": "1.5,0,0.5"
+  },
+  {"Name": "item16",
+    "dimensions": "1,1,1",
+    "target": "0.5,0,0.5"
+  },
+  {"Name": "item17",
+    "dimensions": "2,1,1",
+    "target": "-1.0,0,0.5"
+  },
+  {"Name": "item18",
+    "dimensions": "1,1,1",
+    "target": "-2.5,0,0.5"
+  },
+  {"Name": "item15",
+    "dimensions": "1,1,1",
+    "target": "-3.0,0,0.5"
+  },
+  {"Name": "item16",
+    "dimensions": "1,1,1",
+    "target": "-4.0,0,0.5"
+  },
+  {"Name": "item17",
+    "dimensions": "2,1,1",
+    "target": "-5.5,0,0.5"
+  },
+  {"Name": "item10",
+    "dimensions": "2,1,1",
+    "target": "2.5,0,-1.5"
+  }
+]
